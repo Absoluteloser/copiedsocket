@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #message-container {
+    padding: 20px;
+  }
+  
+  #message-input {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  #send-button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #send-button:hover {
+    background-color: #3e8e41;
+  }
